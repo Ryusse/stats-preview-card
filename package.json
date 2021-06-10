@@ -1,0 +1,22 @@
+{
+  "name": "stats-preview-card-component-main",
+  "version": "1.0.0",
+  "description": "![Design preview for the Stats preview card component coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ryusse/3-column-preview-card-component-main.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ryusse/3-column-preview-card-component-main/issues"
+  },
+  "homepage": "https://github.com/Ryusse/3-column-preview-card-component-main#readme",
+  "dependencies": {
+    "sass": "^1.34.1"
+  }
+}
