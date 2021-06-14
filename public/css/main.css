@@ -90,7 +90,7 @@ body {
       justify-self: center;
   -ms-grid-row-align: center;
       align-self: center;
-  gap: 3em;
+  gap: 3.1em;
 }
 
 .attribution {

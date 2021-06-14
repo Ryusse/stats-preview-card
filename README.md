@@ -2,6 +2,10 @@
 
 ![Design preview for the Stats preview card component coding challenge](./design/desktop-preview.jpg)
 
+##  View site
+
+[Stats preview card](https://ryuse-stats-preview-card.netlify.app/)
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
