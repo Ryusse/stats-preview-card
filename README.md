@@ -2,7 +2,7 @@
 
 ##  View site
 
-[Stats preview card](https://ryuse-stats-preview-card.netlify.app/)
+[Stats preview card](https://xenodochial-darwin-83ebee.netlify.app/)
 
 
 ## Built with : 
