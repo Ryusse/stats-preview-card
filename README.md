@@ -8,6 +8,7 @@
 ## Built with : 
 - Html
 - Scss
+- Grid
 - Gulp
 
 ## Screenshot:
