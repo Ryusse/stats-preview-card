@@ -2,7 +2,7 @@
 
 ##  View site
 
-[Demo](https://ryuse-stats-preview-card.netlify.app/)
+[Demo](https://ryusse.github.io/stats-preview-card/)
 
 
 ## Built with : 
